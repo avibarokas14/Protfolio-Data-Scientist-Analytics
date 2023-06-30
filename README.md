@@ -4,7 +4,7 @@ My projects from the Codecademy course
 1. Hurricane Analysis Project :  
    This project focuses on writing functions and involves the usage of dictionaries, lists, and data manipulation.
 
-2. Page Funnel Visits Project :
+2. Page Funnel Visits Project : <br>
    This project focuses on multiple tables in Pandas.
 
 3. Diabetes EDA Project:
